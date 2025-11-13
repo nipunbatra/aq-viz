@@ -1,0 +1,538 @@
+SNo,lat,long,name,city,state
+1,21.194815,81.31477,"32Bungalows, Bhilai - CECB",Bhilai,Chhattisgarh
+2,21.258815,81.578979,"AIIMS, Raipur - CECB",Raipur,Chhattisgarh
+3,21.219665,81.630094,"Bhatagaon New ISBT, Raipur - CECB",Raipur,Chhattisgarh
+4,21.185571,81.343175,"Civic Center, Bhilai - Bhilai Steel Plant",Bhilai,Chhattisgarh
+5,22.1910172,83.5197009,"Govt. Higher Secondary School, Milupara - CECB",Milupara,Chhattisgarh
+6,21.224231,81.40835,"Hathkhoj, Bhilai - CECB",Bhilai,Chhattisgarh
+7,21.237755,81.705301,"Krishak Nagar, Raipur - CECB",Raipur,Chhattisgarh
+8,22.08815,82.13737,"Mangala, Bilaspur - NTPC",Bilaspur,Chhattisgarh
+9,22.118125,83.140608,"Nawapara SECL Colony, Chhal - CECB",Chhal,Chhattisgarh
+10,22.06631475,83.33820077,"OP Jindal Industrial Park, Tumidih - CECB",Tumidih,Chhattisgarh
+11,22.12665,83.483212,"OP Jindal School, Kunjemura - CECB",Kunjemura,Chhattisgarh
+12,22.368195,82.746431,"Rampur, Korba - CECB",Korba,Chhattisgarh
+13,21.371751,81.664929,"Siltara Phase-II, Raipur - CECB",Raipur,Chhattisgarh
+14,22.348441,82.549611,"Urja Nagar, Korba - CECB",Korba,Chhattisgarh
+15,26.902909,75.836858,"Adarsh Nagar, Jaipur - RSPCB",Jaipur,Rajasthan
+16,24.5886166,73.6321397,"Ashok Nagar, Udaipur - RSPCB",Udaipur,Rajasthan
+17,25.106006,76.469948,"Bamboliya, Baran - RSPCB",Baran,Rajasthan
+18,23.837789,73.714926,"Bhoiwada, Dungarpur - RSPCB",Dungarpur,Rajasthan
+19,26.470859,74.646594,"Civil Lines, Ajmer - RSPCB",Ajmer,Rajasthan
+20,26.268249,73.0193853,"Collectorate, Jodhpur - RSPCB",Jodhpur,Rajasthan
+21,25.16409,75.858137,"Dhanmandi, Kota - RSPCB",Kota,Rajasthan
+22,25.03636,73.883502,"Dhoinda, Rajsamand - RSPCB",Rajsamand,Rajasthan
+23,26.29581,73.082283,"Digari Kalan, Jodhpur - RSPCB",Jodhpur,Rajasthan
+24,29.61075,74.283608,"Housing Board, Hanumangarh - RSPCB",Hanumangarh,Rajasthan
+25,25.771061,73.340227,"Indira Colony Vistar, Pali - RSPCB",Pali,Rajasthan
+26,28.108988,75.386577,"Indra Nagar, Jhunjhunu - RSPCB",Jhunjhunu,Rajasthan
+27,26.215415,73.070156,"Jhalamand, Jodhpur - RSPCB",Jodhpur,Rajasthan
+28,27.213494,73.734444,"Karni Colony, Nagaur - RSPCB",Nagaur,Rajasthan
+29,26.895552,76.334753,"Khatikan Mohalla, Dausa - RSPCB",Dausa,Rajasthan
+30,27.215415,77.50873,"Krishna Nagar, Bharatpur - RSPCB",Bharatpur,Rajasthan
+31,28.018792,73.292658,"MM Ground, Bikaner - RSPCB",Bikaner,Rajasthan
+32,26.358805,73.047444,"Mandor, Jodhpur - RSPCB",Jodhpur,Rajasthan
+33,26.843698,75.766894,"Mansarovar Sector-12, Jaipur - RSPCB",Jaipur,Rajasthan
+34,27.554793,76.611536,"Moti Doongri, Alwar - RSPCB",Alwar,Rajasthan
+35,25.344694,72.626208,"Mudtra Sili, Jalore - RSPCB",Jalore,Rajasthan
+36,25.196024,75.855668,"Nayapura, Kota - RSPCB",Kota,Rajasthan
+37,25.435774,75.644272,"New Colony, Bundi - RSPCB",Bundi,Rajasthan
+38,29.931624,73.864511,"Old City, Sri Ganganagar - RSPCB",Sri Ganganagar,Rajasthan
+39,26.9164092,75.7994901,"Police Commissionerate, Jaipur - RSPCB",Jaipur,Rajasthan
+40,24.041198,74.780702,"Pragati Nagar, Pratapgarh - RSPCB",Pratapgarh,Rajasthan
+41,25.339605,74.618883,"Pratap Nagar, Bhilwara - RSPCB",Bhilwara,Rajasthan
+42,28.194909,76.862296,"RIICO Ind. Area III, Bhiwadi - RSPCB",Bhiwadi,Rajasthan
+43,26.786682,75.827928,"RIICO Sitapura, Jaipur - RSPCB",Jaipur,Rajasthan
+44,27.608912,75.153302,"Radhakishan Pura, Sikar - RSPCB",Sikar,Rajasthan
+45,25.747299,71.393989,"Railway Colony, Barmer - RSPCB",Barmer,Rajasthan
+46,26.699557,77.898881,"Raja Ganj, Dholpur - RSPCB",Dholpur,Rajasthan
+47,24.588397,76.172782,"Rajlaxmi Nagar, Jhalawar - RSPCB",Jhalawar,Rajasthan
+48,23.55519,74.44001,"Rati Talai, Banswara - RSPCB",Banswara,Rajasthan
+49,26.912329,70.909168,"Sadar Bazar, Jaisalmer - RSPCB",Jaisalmer,Rajasthan
+50,26.031443,76.359327,"Sahu Nagar, Sawai Madhopur - RSPCB",Sawai Madhopur,Rajasthan
+51,26.253384,72.976571,"Samrat Ashok Udhyan, Jodhpur - RSPCB",Jodhpur,Rajasthan
+52,26.506177,77.025989,"Satyawati Vihar, Karauli - RSPCB",Karauli,Rajasthan
+53,26.960669,75.771817,"Sector-2 Murlipura, Jaipur - RSPCB",Jaipur,Rajasthan
+54,24.892047,74.623527,"Shastri Nagar, Chittorgarh - RSPCB",Chittorgarh,Rajasthan
+55,26.9502929,75.730943,"Shastri Nagar, Jaipur - RSPCB",Jaipur,Rajasthan
+56,26.159933,75.780517,"Shastri Nagar, Tonk - RSPCB",Tonk,Rajasthan
+57,25.14389,75.821256,"Shrinath Puram, Kota - RSPCB",Kota,Rajasthan
+58,28.296139,74.961696,"Subash Chowk, Churu - RSPCB",Churu,Rajasthan
+59,24.885261,72.857549,"Vedhaynath Colony, Sirohi - RSPCB",Sirohi,Rajasthan
+60,30.943887,76.801991,"HIMUDA Complex Phase-1, Baddi - HPPCB",Baddi,Himachal Pradesh
+61,26.11442,85.39813,"Buddha Colony, Muzaffarpur - BSPCB",Muzaffarpur,Bihar
+62,26.2271665,84.3570427,"Chitragupta Nagar, Siwan - BSPCB",Siwan,Bihar
+63,24.7955,84.9994,"Collectorate, Gaya - BSPCB",Gaya,Bihar
+64,25.204762,85.51496,"D M Colony, Bihar Sharif - BSPCB",Bihar Sharif,Bihar
+65,25.251013,86.989001,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",Bhagalpur,Bihar
+66,25.859655,85.77944,"DM Office_Kasipur, Samastipur - BSPCB",Samastipur,Bihar
+67,25.444266,86.140169,"DRCC Anandpur, Begusarai - BSPCB",Begusarai,Bihar
+68,25.586562,85.043586,"DRM Office Danapur, Patna - BSPCB",Patna,Bihar
+69,24.952822,84.002396,"Dada Peer, Sasaram - BSPCB",Sasaram,Bihar
+70,25.0328,85.41948,"Dangi Tola, Rajgir - BSPCB",Rajgir,Bihar
+71,25.7808257,84.7446768,"Darshan Nagar, Chhapra - BSPCB",Chhapra,Bihar
+72,27.308328,84.531742,"Forest Rest House, Manguraha - BSPCB",Manguraha,Bihar
+73,26.63086,84.90051,"Gandak Colony, Motihari - BSPCB",Motihari,Bihar
+74,25.592539,85.227158,"Govt. High School Shikarpur, Patna - BSPCB",Patna,Bihar
+75,24.75746,84.366208,"Gurdeo Nagar, Aurangabad - BSPCB",Aurangabad,Bihar
+76,25.610369,85.132568,"IGSC Planetarium Complex, Patna - BSPCB",Patna,Bihar
+77,25.697189,85.2459,"Industrial Area, Hajipur - BSPCB",Hajipur,Bihar
+78,26.80365,84.51954,"Kamalnath Nagar, Bettiah - BSPCB",Bettiah,Bihar
+79,24.792403,84.992416,"Kareemganj, Gaya - BSPCB",Gaya,Bihar
+80,26.146529,87.454184,"Kharahiya Basti, Araria - BSPCB",Araria,Bihar
+81,26.1403345,85.3650192,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",Muzaffarpur,Bihar
+82,25.366336,87.117468,"Mariam Nagar, Purnia - BSPCB",Purnia,Bihar
+83,25.265194,87.012947,"Mayaganj, Bhagalpur - BSPCB",Bhagalpur,Bihar
+84,25.560083,87.553265,"Mirchaibari, Katihar - BSPCB",Katihar,Bihar
+85,25.619651,85.147382,"Muradpur, Patna - BSPCB",Patna,Bihar
+86,26.1209,85.3647,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",Muzaffarpur,Bihar
+87,25.5626095,84.663264,"New DM Office, Arrah - BSPCB",Arrah,Bihar
+88,25.892357,86.590325,"Police Line, Saharsa - BSPCB",Saharsa,Bihar
+89,25.599486,85.113666,"Rajbansi Nagar, Patna - BSPCB",Patna,Bihar
+90,26.0881305,87.93840336,"SDM Office_Khagra, Kishanganj - BSPCB",Kishanganj,Bihar
+91,24.762518,84.982348,"SFTI Kusdihra, Gaya - BSPCB",Gaya,Bihar
+92,25.596727,85.085624,"Samanpura, Patna - BSPCB",Patna,Bihar
+93,26.15146,85.89342,"Town Hall - Lal Bagh, Darbhanga - BSPCB",Darbhanga,Bihar
+94,25.376776,86.471523,"Town Hall, Munger - BSPCB",Munger,Bihar
+95,24.8207389,93.9423085,"DM College of Science, Imphal - Manipur PCB",Imphal,Manipur
+96,24.7524239,93.9286218,"Manipur University, Imphal - Manipur PCB",Imphal,Manipur
+97,10.5324,76.2159,"Corporation Ground, Thrissur - Kerala PCB",Thrissur,Kerala
+98,9.985653,76.281342,"Kacheripady, Ernakulam - Kerala PCB",Ernakulam,Kerala
+99,8.5637,76.8865,"Kariavattom, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala
+100,11.249077,75.784371,"Palayam, Kozhikode - Kerala PCB",Kozhikode,Kerala
+101,8.5149093,76.9435879,"Plammoodu, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala
+102,8.8787,76.6073,"Polayathode, Kollam - Kerala PCB",Kollam,Kerala
+103,11.875,75.3732,"Thavakkara, Kannur - Kerala PCB",Kannur,Kerala
+104,10.073232,76.302765,"Udyogamandal, Eloor - Kerala PCB",Eloor,Kerala
+105,9.969447,76.321186,"Vyttila, Kochi - Kerala PCB",Kochi,Kerala
+106,26.446912,91.439057,"Bata Chowk, Nalbari - PCBA",Nalbari,Assam
+107,26.071318,91.87488,"Central Academy for SFS, Byrnihat - PCBA",Byrnihat,Assam
+108,26.349082,92.68449,"Christianpatty, Nagaon - PCBA",Nagaon,Assam
+109,26.987634,94.636574,"Girls College, Sivasagar - PCBA",Sivasagar,Assam
+110,26.2028636,91.70046436,"IITG, Guwahati - PCBA",Guwahati,Assam
+111,26.10887,91.589544,"LGBI Airport, Guwahati - PCBA",Guwahati,Assam
+112,26.1875,91.744194,"Pan Bazaar, Guwahati - PCBA",Guwahati,Assam
+113,26.181742,91.78063,"Railway Colony, Guwahati - PCBA",Guwahati,Assam
+114,24.82827,92.79525,"Tarapur, Silchar - PCBA",Silchar,Assam
+115,23.7176342,92.7192841,"Sikulpuikawn, Aizawl - Mizoram PCB",Aizawl,Mizoram
+116,30.269444,78.044167,"Doon University, Dehradun - UKPCB",Dehradun,Uttarakhand
+117,29.2124114,78.9611753,"Govt. Girls Inter College, Kashipur - UKPCB",Kashipur,Uttarakhand
+118,30.075911,78.2859547,"Shivaji Nagar, Rishikesh - UKPCB",Rishikesh,Uttarakhand
+119,19.1494,72.9986,"Airoli, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra
+120,18.675076,73.892743,"Alandi, Pune - IITM",Pune,Maharashtra
+121,21.121801,79.04952,"Ambazari, Nagpur - MPCB",Nagpur,Maharashtra
+122,19.053536,72.84643,"Bandra Kurla Complex, Mumbai - IITM",Mumbai,Maharashtra
+123,19.065931,72.862131,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,Maharashtra
+124,19.0627,72.84614,"Bandra, Mumbai - MPCB",Mumbai,Maharashtra
+125,19.296481,72.840923,"Bhayandar West, Mira-Bhayandar - MPCB",Mira-Bhayandar,Maharashtra
+126,18.640051,73.848956,"Bhosari, Pune - IITM",Pune,Maharashtra
+127,19.445821,72.7988231,"Bolinj, Virar - MPCB",Virar,Maharashtra
+128,19.23241,72.86895,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra
+129,19.2243333,72.8658113,"Borivali East, Mumbai - MPCB",Mumbai,Maharashtra
+130,18.9767,72.838,"Byculla, Mumbai - BMC",Mumbai,Maharashtra
+131,19.0243902,73.0406721,"CBD Belapur, Belapur - MPCB",Belapur,Maharashtra
+132,19.11074,72.86084,"Chakala-Andheri East, Mumbai - IITM",Mumbai,Maharashtra
+133,19.9629,79.298714,"Chauhan Colony, Chandrapur - MPCB",Chandrapur,Maharashtra
+134,19.0364585,72.8954371,"Chembur, Mumbai - MPCB",Mumbai,Maharashtra
+135,19.10078,72.87462,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,Maharashtra
+136,18.91,72.82,"Colaba, Mumbai - MPCB",Mumbai,Maharashtra
+137,19.04946,72.923,"Deonar, Mumbai - IITM",Mumbai,Maharashtra
+138,20.918946,74.776388,"Deopur, Dhule - MPCB",Dhule,Maharashtra
+139,17.6336264,75.9132495,"Dnyaneshwar Nagar, Solapur - MPCB",Solapur,Maharashtra
+140,20.0073285,73.7762427,"Gangapur Road, Nashik - MPCB",Nashik,Maharashtra
+141,18.63673,73.82487,"Gavalinagar, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra
+142,19.083694,72.920967,"Ghatkopar, Mumbai - BMC",Mumbai,Maharashtra
+143,19.309073,73.057223,"Gokul Nagar, Bhiwandi - MPCB",Bhiwandi,Maharashtra
+144,18.501793,73.927532,"Hadapsar, Pune - IITM",Pune,Maharashtra
+145,20.021503,73.813844,"Hirawadi, Nashik - MPCB",Nashik,Maharashtra
+146,18.1023399,73.4783687,"Kamble Tarf Birwadi, Mahad - MPCB",Mahad,Maharashtra
+147,19.2058,72.8682,"Kandivali East, Mumbai - MPCB",Mumbai,Maharashtra
+148,19.215859,72.831718,"Kandivali West, Mumbai - BMC",Mumbai,Maharashtra
+149,18.5011743,73.8165527,"Karve Road, Pune - MPCB",Pune,Maharashtra
+150,19.26777,72.97182,"Kasarvadavali, Thane - MPCB",Thane,Maharashtra
+151,18.45445,73.854155,"Katraj Dairy, Pune - MPCB",Pune,Maharashtra
+152,19.16485,73.23409,"Katrap, Badlapur - MPCB",Badlapur,Maharashtra
+153,19.25292,73.142019,"Khadakpada, Kalyan - MPCB",Kalyan,Maharashtra
+154,19.786089,72.757971,"Khaira, Boisar - MPCB",Boisar,Maharashtra
+155,19.0632143,72.8456324,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,Maharashtra
+156,19.1653323,72.922099,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,Maharashtra
+157,19.090337,73.014232,"Kopripada-Vashi, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra
+158,19.0863,72.8888,"Kurla, Mumbai - MPCB",Mumbai,Maharashtra
+159,19.95022,73.73148,"MIDC Ambad, Nashik - MPCB",Nashik,Maharashtra
+160,19.87562,75.38731,"MIDC Chilkalthana, Aurangabad - MPCB",Aurangabad,Maharashtra
+161,19.9775302,79.2337086,"MIDC Khutala, Chandrapur - MPCB",Chandrapur,Maharashtra
+162,18.517754,73.8214883,"MIT-Kothrud, Pune - IITM",Pune,Maharashtra
+163,21.14472,79.107595,"Mahal, Nagpur - MPCB",Nagpur,Maharashtra
+164,19.1135051,73.008978,"Mahape, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra
+165,20.555712,74.529236,"Mahesh Nagar, Malegaon - MPCB",Malegaon,Maharashtra
+166,19.19709,72.82204,"Malad West, Mumbai - IITM",Mumbai,Maharashtra
+167,19.265594,76.761463,"Masoom Colony, Parbhani - MPCB",Parbhani,Maharashtra
+168,18.96702,72.84214,"Mazgaon, Mumbai - IITM",Mumbai,Maharashtra
+169,18.57304,73.927715,"Mhada Colony, Pune - IITM",Pune,Maharashtra
+170,19.1878657,72.8304069,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,Maharashtra
+171,19.8389439,75.244448,"More Chowk Waluj, Aurangabad - MPCB",Aurangabad,Maharashtra
+172,19.175,72.9419,"Mulund West, Mumbai - MPCB",Mumbai,Maharashtra
+173,18.897756,72.81332,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,Maharashtra
+174,19.008751,73.01662,"Nerul, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra
+175,19.854616,75.905894,"Old MIDC, Jalna - MPCB",Jalna,Maharashtra
+176,21.152875,79.0517531,"Opp GPO Civil Lines, Nagpur - MPCB",Nagpur,Maharashtra
+177,19.9591346,73.7788008,"Pandav Nagari, Nashik - MPCB",Nashik,Maharashtra
+178,18.59051,73.77946,"Park Street Wakad, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra
+179,19.192056,72.9585188,"Pimpleshwar Mandir, Thane - MPCB",Thane,Maharashtra
+180,19.1375,72.915056,"Powai, Mumbai - MPCB",Mumbai,Maharashtra
+181,21.001264,75.565602,"Prabhat Colony, Jalgaon - MPCB",Jalgaon,Maharashtra
+182,19.863756,75.321188,"Rachnakar Colony, Aurangabad - MPCB",Aurangabad,Maharashtra
+183,21.143383,79.048912,"Ram Nagar, Nagpur - MPCB",Nagpur,Maharashtra
+184,20.719516,77.000253,"Ramdaspeth, Akola - MPCB",Akola,Maharashtra
+185,17.65439,75.90649,"Ratandeep Housing Society, Solapur - MPCB",Solapur,Maharashtra
+186,18.530085,73.849598,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,Maharashtra
+187,19.0575752,73.0151367,"Sanpada, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra
+188,18.547056,73.826908,"Savitribai Phule Pune University, Pune - MPCB",Pune,Maharashtra
+189,18.39963,76.57452,"Sawe Wadi, Latur - MPCB",Latur,Maharashtra
+190,19.044,73.0325,"Sector-19A Nerul, Navi Mumbai - IITM",Navi Mumbai,Maharashtra
+191,19.02579,73.10297,"Sector-2E Kalamboli, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra
+192,19.000084,72.85673,"Sewri, Mumbai - BMC",Mumbai,Maharashtra
+193,19.060498,72.923356,"Shivaji Nagar, Mumbai - BMC",Mumbai,Maharashtra
+194,16.6870449,74.2505872,"Shivaji University, Kolhapur - MPCB",Kolhapur,Maharashtra
+195,20.9402359,77.7895248,"Shivneri Colony, Amravati - MPCB",Amravati,Maharashtra
+196,20.939198,77.765701,"Shri Shivaji Science College, Amaravati - MPCB",Amravati,Maharashtra
+197,19.000083,72.813993,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,Maharashtra
+198,19.235581,73.159121,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",Ulhasnagar,Maharashtra
+199,16.7143745,74.2426398,"Sinchan Bhavan, Kolhapur - MPCB",Kolhapur,Maharashtra
+200,19.047,72.8746,"Sion, Mumbai - MPCB",Mumbai,Maharashtra
+201,19.173852,77.296291,"Sneh Nagar, Nanded - MPCB",Nanded,Maharashtra
+202,17.6599188,75.9063906,"Solapur, Solapur - MPCB",Solapur,Maharashtra
+203,19.10122,74.73339,"Tarakpur, Ahmednagar - MPCB",Ahmednagar,Maharashtra
+204,18.616318,73.765797,"Thergaon, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra
+205,19.063,73.1209,"Tondare-Taloja, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra
+206,18.664282,73.763966,"Transport Nagar-Nigdi, Pune - IITM",Pune,Maharashtra
+207,19.222279,72.957979,"Upvan Fort, Thane - MPCB",Thane,Maharashtra
+208,19.3832,72.8204,"Vasai West, Mumbai - MPCB",Mumbai,Maharashtra
+209,16.5038,74.3623,"Vijay Nagar, Sangli - MPCB",Sangli,Maharashtra
+210,19.10861,72.83622,"Vile Parle West, Mumbai - MPCB",Mumbai,Maharashtra
+211,18.9936162,72.8128113,"Worli, Mumbai - MPCB",Mumbai,Maharashtra
+212,23.107969,72.574648,"Chandkheda, Ahmedabad - IITM",Ahmedabad,Gujarat
+213,21.613267,73.010555,"GIDC, Ankleshwar - GPCB",Ankleshwar,Gujarat
+214,22.410802,73.097923,"GIDC, Nandesari - Nandesari Ind. Association",Nandesari,Gujarat
+215,23.163798,72.677768,"GIFT City, Gandhinagar - IITM",Gandhinagar,Gujarat
+216,22.977134,72.553024,"Gyaspur, Ahmedabad - IITM",Ahmedabad,Gujarat
+217,23.243639,72.68994,"IIPHG Lekawada, Gandhinagar - IITM",Gandhinagar,Gujarat
+218,23.002657,72.591912,"Maninagar, Ahmedabad - GPCB",Ahmedabad,Gujarat
+219,20.362421,72.918013,"Phase-1 GIDC, Vapi - GPCB",Vapi,Gujarat
+220,22.969611,72.6435,"Phase-4 GIDC, Vatva - GPCB",Vatva,Gujarat
+221,23.020509,72.579261,"Raikhad, Ahmedabad - IITM",Ahmedabad,Gujarat
+222,23.016834,72.625775,"Rakhial, Ahmedabad - IITM",Ahmedabad,Gujarat
+223,23.041137,72.456691,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,Gujarat
+224,23.023389,72.515201,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,Gujarat
+225,23.076793,72.627874,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,Gujarat
+226,23.04307,72.562968,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",Ahmedabad,Gujarat
+227,21.170046,72.795405,"Science Center, Surat - SMC",Surat,Gujarat
+228,23.221714,72.654328,"Sector-10, Gandhinagar - GPCB",Gandhinagar,Gujarat
+229,24.58434363,80.8549414,"Bandhavgar Colony, Satna - Birla Cement",Satna,Madhya Pradesh
+230,22.9682591,76.064118,"Bhopal Chauraha, Dewas - MPPCB",Dewas,Madhya Pradesh
+231,22.431,75.5213,"Chhoti Gwaltoli, Indore - MPPCB",Indore,Madhya Pradesh
+232,26.203442,78.193251,"City Center, Gwalior - MPPCB",Gwalior,Madhya Pradesh
+233,23.838586,78.759431,"Civil Lines, Sagar - MPPCB",Sagar,Madhya Pradesh
+234,26.259242,78.216432,"Deen Dayal Nagar, Gwalior - MPPCB",Gwalior,Madhya Pradesh
+235,23.8640158,78.80289321,"Deen Dayal Nagar, Sagar - MPPCB",Sagar,Madhya Pradesh
+236,23.50016,80.23284,"Gole Bazar, Katni - MPPCB",Katni,Madhya Pradesh
+237,23.163174,79.973061,"Govindh Bhavan Colony, Jabalpur - JMC",Jabalpur,Madhya Pradesh
+238,23.142888,79.916147,"Gupteshwar, Jabalpur - JMC",Jabalpur,Madhya Pradesh
+239,23.264759,77.381568,"Idgah Hills, Bhopal - MPPCB",Bhopal,Madhya Pradesh
+240,22.7524,75.8872,"Maguda Nagar, Indore - IMC",Indore,Madhya Pradesh
+241,23.182719,75.768218,"Mahakaleshwar Temple, Ujjain - MPPCB",Ujjain,Madhya Pradesh
+242,26.200388,78.147714,"Maharaj Bada, Gwalior - MPPCB",Gwalior,Madhya Pradesh
+243,23.168606,79.932247,"Marhatal, Jabalpur - MPPCB",Jabalpur,Madhya Pradesh
+244,23.210494,77.425409,"Paryavaran Parisar, Bhopal - MPPCB",Bhopal,Madhya Pradesh
+245,26.210536,78.171,"Phool Bagh, Gwalior - Mondelez Ind. Food",Gwalior,Madhya Pradesh
+246,22.678,75.8559,"Regional Park, Indore - IMC",Indore,Madhya Pradesh
+247,22.7084,75.8815,"Residency Area, Indore - IMC",Indore,Madhya Pradesh
+248,24.2613009,80.7231783,"Sahilara, Maihar - KJS Cements",Maihar,Madhya Pradesh
+249,22.624758,75.675238,"Sector-2 Industrial Area, Pithampur - MPPCB",Pithampur,Madhya Pradesh
+250,23.10844,77.511428,"Sector-D Industrial Area, Mandideep - MPPCB",Mandideep,Madhya Pradesh
+251,23.331731,75.045981,"Shasthri Nagar, Ratlam - IPCA Lab",Ratlam,Madhya Pradesh
+252,23.81748678,79.446246,"Shrivastav Colony, Damoh - MPPCB",Damoh,Madhya Pradesh
+253,23.218135,79.95777,"Suhagi, Jabalpur - JMC",Jabalpur,Madhya Pradesh
+254,24.10897,82.64558,"Suryakiran Bhawan NCL, Singrauli - MPPCB",Singrauli,Madhya Pradesh
+255,23.233584,77.400574,"T T Nagar, Bhopal - MPPCB",Bhopal,Madhya Pradesh
+256,22.76726,75.8871,"Vijay Nagar Scheme-78, Indore - Glenmark",Indore,Madhya Pradesh
+257,27.103358,93.679645,"Naharlagun, Naharlagun - APSPCB",Naharlagun,Arunachal Pradesh
+258,17.540891,78.358528,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,Telangana
+259,17.460103,78.334361,"Central University, Hyderabad - TSPCB",Hyderabad,Telangana
+260,17.470431,78.566959,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,Telangana
+261,17.5184,78.278777,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,Telangana
+262,17.5316895,78.218939,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,Telangana
+263,17.585705,78.126199,"IITH Kandi, Hyderabad - TSPCB",Hyderabad,Telangana
+264,17.393559,78.339194,"Kokapet, Hyderabad - TSPCB",Hyderabad,Telangana
+265,17.544899,78.486949,"Kompally Municipal Office, Hyderabad - TSPCB",Hyderabad,Telangana
+266,17.429398,78.569354,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,Telangana
+267,17.37206,78.50864,"New Malakpet, Hyderabad - TSPCB",Hyderabad,Telangana
+268,17.528544,78.286195,"Ramachandrapuram, Hyderabad - TSPCB",Hyderabad,Telangana
+269,17.4559458,78.4332152,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,Telangana
+270,17.417094,78.457437,"Somajiguda, Hyderabad - TSPCB",Hyderabad,Telangana
+271,17.349694,78.451437,"Zoo Park, Hyderabad - TSPCB",Hyderabad,Telangana
+272,28.725645,77.749675,"Anand Vihar, Hapur - UPPCB",Hapur,Uttar Pradesh
+273,25.3505986,82.9083074,"Ardhali Bazar, Varanasi - UPPCB",Varanasi,Uttar Pradesh
+274,26.766433,80.927299,"B R Ambedkar University, Lucknow - UPPCB",Lucknow,Uttar Pradesh
+275,25.301778,82.996789,"Bhelupur, Varanasi - UPPCB",Varanasi,Uttar Pradesh
+276,28.83526,78.7446,"Buddhi Vihar, Moradabad - UPPCB",Moradabad,Uttar Pradesh
+277,28.359581,79.414455,"Civil Lines, Bareilly - UPPCB",Bareilly,Uttar Pradesh
+278,28.840739,78.697531,"Eco Herbal Park, Moradabad - UPPCB",Moradabad,Uttar Pradesh
+279,28.88528,78.7388,"Employment Office, Moradabad - UPPCB",Moradabad,Uttar Pradesh
+280,26.428282,80.327067,"FTI Kidwai Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh
+281,28.999264,77.7590354,"Ganga Nagar, Meerut - UPPCB",Meerut,Uttar Pradesh
+282,26.86812,81.005119,"Gomti Nagar, Lucknow - UPPCB",Lucknow,Uttar Pradesh
+283,25.262326,82.995408,"IESD Banaras Hindu University, Varanasi - UPPCB",Varanasi,Uttar Pradesh
+284,26.511739,80.235136,"IITK, Kanpur - IITK",Kanpur,Uttar Pradesh
+285,28.646233,77.358075,"Indirapuram, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh
+286,28.9535882,77.7622941,"Jai Bhim Nagar, Meerut - UPPCB",Meerut,Uttar Pradesh
+287,25.425602,81.917152,"Jhunsi, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh
+288,28.856664,78.772638,"Jigar Colony, Moradabad - UPPCB",Moradabad,Uttar Pradesh
+289,28.2348927,77.8683002,"Kalindi Kunj, Khurja - UPPCB",Khurja,Uttar Pradesh
+290,28.849399,78.742362,"Kashiram Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh
+291,26.906111,80.948222,"Kendriya Vidyalaya, Lucknow - CPCB",Lucknow,Uttar Pradesh
+292,28.47272,77.482,"Knowledge Park - III, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh
+293,28.557054,77.453663,"Knowledge Park - V, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh
+294,26.90723,80.98579,"Kukrail Picnic Spot-1, Lucknow - UPPCB",Lucknow,Uttar Pradesh
+295,28.825341,78.7213009,"Lajpat Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh
+296,26.8458805,80.9365541,"Lalbagh, Lucknow - CPCB",Lucknow,Uttar Pradesh
+297,28.757294,77.278792,"Loni, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh
+298,26.730136,83.433859,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",Gorakhpur,Uttar Pradesh
+299,25.32393,82.99687,"Maldahiya, Varanasi - UPPCB",Varanasi,Uttar Pradesh
+300,27.23711,78.01936,"Manoharpur, Agra - UPPCB",Agra,Uttar Pradesh
+301,25.494,81.863,"Motilal Nehru NIT, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh
+302,26.509954,80.249612,"NSI Kalyanpur, Kanpur - UPPCB",Kanpur,Uttar Pradesh
+303,25.44919916,81.82735986,"Nagar Nigam, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh
+304,27.168897,78.37696,"Nagla Bhau, Firozabad - UPPCB",Firozabad,Uttar Pradesh
+305,26.4703136,80.3229863,"Nehru Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh
+306,28.974801,77.213357,"New Collectorate, Baghpat - UPPCB",Baghpat,Uttar Pradesh
+307,29.4723508,77.7194031,"New Mandi, Muzaffarnagar - UPPCB",Muzaffarnagar,Uttar Pradesh
+308,26.871428,80.957145,"Nishant Ganj, Lucknow - UPPCB",Lucknow,Uttar Pradesh
+309,27.571409,77.655757,"Omex Eternity, Vrindavan - UPPCB",Vrindavan,Uttar Pradesh
+310,29.06351,77.709723,"Pallavpuram Phase 2, Meerut - UPPCB",Meerut,Uttar Pradesh
+311,28.38910936,79.42963708,"Rajendra Nagar, Bareilly - UPPCB",Bareilly,Uttar Pradesh
+312,27.106972,78.000111,"Rohta, Agra - UPPCB",Agra,Uttar Pradesh
+313,28.685382,77.453839,"Sanjay Nagar, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh
+314,27.19865833,78.00598056,"Sanjay Palace, Agra - UPPCB",Agra,Uttar Pradesh
+315,28.964949,77.278761,"Sardar Patel Inter College, Baghpat - UPPCB",Baghpat,Uttar Pradesh
+316,28.5447608,77.3231257,"Sector - 125, Noida - UPPCB",Noida,Uttar Pradesh
+317,28.6245479,77.3577104,"Sector - 62, Noida - IMD",Noida,Uttar Pradesh
+318,28.5898,77.3101,"Sector-1, Noida - UPPCB",Noida,Uttar Pradesh
+319,28.56923,77.393848,"Sector-116, Noida - UPPCB",Noida,Uttar Pradesh
+320,27.19412,77.96237,"Sector-3B Avas Vikas Colony, Agra - UPPCB",Agra,Uttar Pradesh
+321,27.169338,78.03582,"Shahjahan Garden, Agra - UPPCB",Agra,Uttar Pradesh
+322,27.19862,77.92066,"Shastripuram, Agra - UPPCB",Agra,Uttar Pradesh
+323,25.4547,78.6039,"Shivaji Nagar, Jhansi - UPPCB",Jhansi,Uttar Pradesh
+324,26.83399722,80.8917361,"Talkatora District Industries Center, Lucknow - CPCB",Lucknow,Uttar Pradesh
+325,28.802625,78.753728,"Transport Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh
+326,28.6603346,77.3572563,"Vasundhara, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh
+327,27.1594,78.3953,"Vibhab Nagar, Firozabad - UPPCB",Firozabad,Uttar Pradesh
+328,28.406963,77.849831,"Yamunapuram, Bulandshahr - UPPCB",Bulandshahr,Uttar Pradesh
+329,25.5803419,91.8942571,"JN Stadium, Shillong - Meghalaya PCB",Shillong,Meghalaya
+330,25.5586,91.8985,"Lumpyngngad, Shillong - Meghalaya PCB",Shillong,Meghalaya
+331,21.869985,85.167016,"Barsua Iron Ore Mines, Tensa - OSPCB",Tensa,Odisha
+332,20.48891,85.84768,"CDA Area, Cuttack - OSPCB",Cuttack,Odisha
+333,21.847279,85.416905,"Dabuna, Nayagarh - OSPCB",Nayagarh,Odisha
+334,22.265816,86.174829,"Divisional Forest Office, Rairangpur - OSPCB",Rairangpur,Odisha
+335,20.94185,86.1151,"Ferro Chrome Colony, Byasanagar - OSPCB",Byasanagar,Odisha
+336,22.18972222,84.86277778,"Fertilizer Township, Rourkela - OSPCB",Rourkela,Odisha
+337,22.1166054,85.3945546,"Forest Office, Barbil - OSPCB",Barbil,Odisha
+338,21.8004996,83.8396977,"GM Office, Brajrajnagar - OSPCB",Brajrajnagar,Odisha
+339,20.832874,85.104082,"Hakimapada, Angul - OSPCB",Angul,Odisha
+340,21.6439,85.599355,"Jagamohanpur, Keonjhar - OSPCB",Keonjhar,Odisha
+341,21.51161,86.89088,"Kalidaspur, Balasore - OSPCB",Balasore,Odisha
+342,20.24079,85.836784,"Lingraj Mandir, Bhubaneswar - OSPCB",Bhubaneswar,Odisha
+343,21.941841,86.728318,"Meher Colony, Baripada - OSPCB",Baripada,Odisha
+344,21.606865,85.510538,"OMC Colony, Suakati - OSPCB",Suakati,Odisha
+345,20.34652,85.8163,"Patia, Bhubaneswar - OSPCB",Bhubaneswar,Odisha
+346,22.220833,84.809444,"Raghunathpali, Rourkela - OSPCB",Rourkela,Odisha
+347,22.245,84.88111111,"Sector-2, Rourkela - OSPCB",Rourkela,Odisha
+348,20.9360711,85.1707021,"Talcher Coalfields,Talcher - OSPCB",Talcher,Odisha
+349,22.06156703,85.47409613,"Tata Township, Bileipada - OSPCB",Bileipada,Odisha
+350,27.33853,88.614099,"Zero Point GICI, Gangtok - SSPCB",Gangtok,Sikkim
+351,11.9309,79.8027,"Jawahar Nagar, Puducherry - PPCC",Puducherry,Puducherry
+352,30.735567,76.775714,"Sector 22, Chandigarh - CPCC",Chandigarh,Chandigarh
+353,30.751462,76.762879,"Sector-25, Chandigarh - CPCC",Chandigarh,Chandigarh
+354,30.719859,76.738637,"Sector-53, Chandigarh - CPCC",Chandigarh,Chandigarh
+355,14.7918,75.3896,"Ashwini Nagar, Haveri - KSPCB",Haveri,Karnataka
+356,13.008556,76.125258,"B.Katihalli, Hassan - KSPCB",Hassan,Karnataka
+357,12.9135218,77.5950804,"BTM Layout, Bengaluru - CPCB",Bengaluru,Karnataka
+358,12.9352049,77.6814488,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,Karnataka
+359,12.951913,77.539784,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka
+360,13.34194444,74.74694444,"Brahmagiri, Udupi - KSPCB",Udupi,Karnataka
+361,13.428828,77.731418,"Chikkaballapur Rural, Chikkaballapur - KSPCB",Chikkaballapur,Karnataka
+362,12.9756843,77.5660749,"City Railway Station, Bengaluru - KSPCB",Bengaluru,Karnataka
+363,16.7602,77.1428,"Collector Office, Yadgir - KSPCB",Yadgir,Karnataka
+364,15.351773,75.140726,"Deshpande Nagar, Hubballi - KSPCB",Hubballi,Karnataka
+365,14.4758,75.9052,"Devaraj Urs Badavane, Davanagere - KSPCB",Davanagere,Karnataka
+366,15.34763,76.181767,"Diwator Nagar, Koppal - KSPCB",Koppal,Karnataka
+367,16.208139,77.348417,"Haji Colony, Raichur - KSPCB",Raichur,Karnataka
+368,12.21041,76.37376,"Hebbal 1st Stage, Mysuru - KSPCB",Mysuru,Karnataka
+369,13.029152,77.585901,"Hebbal, Bengaluru - KSPCB",Bengaluru,Karnataka
+370,12.938539,77.5901,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka
+371,16.802639,75.722694,"Ibrahimpur, Vijayapura - KSPCB",Vijayapura,Karnataka
+372,12.920984,77.584908,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,Karnataka
+373,12.7816279,77.6299145,"Jigani, Bengaluru - KSPCB",Bengaluru,Karnataka
+374,14.816666,74.141003,"KHB Colony, Karwar - KSPCB",Karwar,Karnataka
+375,12.88925,74.853,"Kadri, Mangalore - KSPCB",Mangalore,Karnataka
+376,15.459706,75.008381,"Kalabhavan, Dharwad - KSPCB",Dharwad,Karnataka
+377,13.328028,75.797056,"Kalyana Nagara, Chikkamagaluru - KSPCB",Chikkamagaluru,Karnataka
+378,13.003872,77.664217,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka
+379,17.321993,76.822628,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",Kalaburagi,Karnataka
+380,15.3714823,75.1160168,"Lingaraj Nagar, Hubballi - KSPCB",Hubballi,Karnataka
+381,17.336318,76.847397,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",Kalaburagi,Karnataka
+382,17.930306,77.482194,"Naubad, Bidar - KSPCB",Bidar,Karnataka
+383,15.411456,75.638133,"Panchal Nagar, Gadag - KSPCB",Gadag,Karnataka
+384,13.0270199,77.494094,"Peenya, Bengaluru - CPCB",Bengaluru,Karnataka
+385,12.921418,77.502466,"RVCE-Mailasandra, Bengaluru - KSPCB",Bengaluru,Karnataka
+386,15.888653,74.541751,"Ramteerth Nagar, Belgaum - KSPCB",Belgaum,Karnataka
+387,12.990328,77.5431385,"Sanegurava Halli, Bengaluru - KSPCB",Bengaluru,Karnataka
+388,13.0246342,77.5080115,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,Karnataka
+389,12.917348,77.622813,"Silk Board, Bengaluru - KSPCB",Bengaluru,Karnataka
+390,12.415911,75.73505,"Stuart Hill, Madikeri - KSPCB",Madikeri,Karnataka
+391,13.1276288,78.1570122,"Tamaka Ind. Area, Kolar - KSPCB",Kolar,Karnataka
+392,13.377516,77.099072,"Thimmalapura, Tumakuru - KSPCB",Tumakuru,Karnataka
+393,11.55358,76.55521,"Urban, Chamarajanagar - KSPCB",Chamarajanagar,Karnataka
+394,16.172806,75.659694,"Vidayagiri, Bagalkot - KSPCB",Bagalkot,Karnataka
+395,12.733409,77.298051,"Vijay Nagar, Ramanagara - KSPCB",Ramanagara,Karnataka
+396,13.94,75.555917,"Vinoba Nagara, Shivamogga - KSPCB",Shivamogga,Karnataka
+397,12.9099161,80.1076538,"Alandur Bus Depot, Chennai - CPCB",Chennai,Tamil Nadu
+398,13.4127,80.1081,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",Gummidipoondi,Tamil Nadu
+399,13.0664,80.2112,"Arumbakkam, Chennai - TNPCB",Chennai,Tamil Nadu
+400,10.681158,78.741746,"Bharathidasan University, Palkalaiperur - TNPCB",Palkalaiperur,Tamil Nadu
+401,11.4068288,76.7138973,"Bombay Castel, Ooty - TNPCB",Ooty,Tamil Nadu
+402,9.36399,78.831977,"Chalai Bazaar, Ramanathapuram - TNPCB",Ramanathapuram,Tamil Nadu
+403,9.559382,77.948828,"Collectorate Office, Virudhunagar - TNPCB",Virudhunagar,Tamil Nadu
+404,12.8777316,80.0834807,"Crescent University, Chengalpattu - TNPCB",Chengalpattu,Tamil Nadu
+405,13.218341,80.32027,"Gandhi Nagar_Ennore, Chennai - TNPCB",Chennai,Tamil Nadu
+406,11.06825,79.07033,"Keelapalur, Ariyalur - TNPCB",Ariyalur,Tamil Nadu
+407,12.864618,79.659968,"Kilambi, Kanchipuram - TNPCB",Kanchipuram,Tamil Nadu
+408,13.1278,80.2642,"Kodungaiyur, Chennai - TNPCB",Chennai,Tamil Nadu
+409,11.6829898,79.7532099,"Kudikadu, Cuddalore - TNPCB",Cuddalore,Tamil Nadu
+410,11.0973603,77.3228673,"Kumaran College, Tirupur - TNPCB",Tirupur,Tamil Nadu
+411,13.1662,80.2584,"Manali Village, Chennai - TNPCB",Chennai,Tamil Nadu
+412,13.164544,80.26285,"Manali, Chennai - CPCB",Chennai,Tamil Nadu
+413,8.816428,78.099039,"Meelavittan, Thoothukudi - TNPCB",Thoothukudi,Tamil Nadu
+414,10.358535,77.984321,"Mendonsa Colony, Dindigul - TNPCB",Dindigul,Tamil Nadu
+415,11.0328,77.0349,"PSG College of Arts and Science, Coimbatore - TNPCB",Coimbatore,Tamil Nadu
+416,12.9533,80.2357,"Perungudi, Chennai - TNPCB",Chennai,Tamil Nadu
+417,13.1036,80.2909,"Royapuram, Chennai - TNPCB",Chennai,Tamil Nadu
+418,10.942451,76.978996,"SIDCO Kurichi, Coimbatore - TNPCB",Coimbatore,Tamil Nadu
+419,12.746998,77.813811,"SIPCOT Phase-1, Hosur - TNPCB",Hosur,Tamil Nadu
+420,11.7637683,79.7499835,"Semmandalam, Cuddalore - TNPCB",Cuddalore,Tamil Nadu
+421,11.679111,78.125052,"Sona College of Technology, Salem - TNPCB",Salem,Tamil Nadu
+422,10.830158,78.691849,"St Joseph College, Tiruchirappalli - TNPCB",Tiruchirappalli,Tamil Nadu
+423,12.909494,79.131861,"Vasanthapuram, Vellore - TNPCB",Vellore,Tamil Nadu
+424,13.0052189,80.2398125,"Velachery Res. Area, Chennai - CPCB",Chennai,Tamil Nadu
+425,31.321907,75.578914,"Civil Line, Jalandhar - PPCB",Jalandhar,Punjab
+426,31.62,74.876512,"Golden Temple, Amritsar - PPCB",Amritsar,Punjab
+427,30.233011,74.907758,"Hardev Nagar, Bathinda - PPCB",Bathinda,Punjab
+428,30.736056,76.209694,"Kalal Majra, Khanna - PPCB",Khanna,Punjab
+429,30.349388,76.366642,"Model Town, Patiala - PPCB",Patiala,Punjab
+430,30.9028,75.8086,"Punjab Agricultural University, Ludhiana - PPCB",Ludhiana,Punjab
+431,30.649961,76.331442,"RIMT University, Mandi Gobindgarh - PPCB",Mandi Gobindgarh,Punjab
+432,31.0325454,76.5623046,"Ratanpura, Rupnagar - Ambuja Cements",Rupnagar,Punjab
+433,25.6635413,94.0989878,"PWD Juction, Kohima - NPCB",Kohima,Nagaland
+434,34.066206,74.81982,"Rajbagh, Srinagar - JKSPCB",Srinagar,Jammu and Kashmir
+435,28.815329,77.15301,"Alipur, Delhi - DPCC",Delhi,Delhi
+436,28.647622,77.315809,"Anand Vihar, Delhi - DPCC",Delhi,Delhi
+437,28.695381,77.181665,"Ashok Vihar, Delhi - DPCC",Delhi,Delhi
+438,28.4706914,77.1099364,"Aya Nagar, Delhi - IMD",Delhi,Delhi
+439,28.7762,77.051074,"Bawana, Delhi - DPCC",Delhi,Delhi
+440,28.7256504,77.2011573,"Burari Crossing, Delhi - IMD",Delhi,Delhi
+441,28.5512005,77.2735737,"CRRI Mathura Road, Delhi - IMD",Delhi,Delhi
+442,28.656756,77.227234,"Chandni Chowk, Delhi - IITM",Delhi,Delhi
+443,28.7500499,77.1112615,"DTU, Delhi - CPCB",Delhi,Delhi
+444,28.498571,77.26484,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,Delhi
+445,28.5710274,77.0719006,"Dwarka-Sector 8, Delhi - DPCC",Delhi,Delhi
+446,28.5627763,77.1180053,"IGI Airport (T3), Delhi - IMD",Delhi,Delhi
+447,28.6811736,77.3025234,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,Delhi
+448,28.628624,77.24106,"ITO, Delhi - CPCB",Delhi,Delhi
+449,28.73282,77.170633,"Jahangirpuri, Delhi - DPCC",Delhi,Delhi
+450,28.58028,77.233829,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,Delhi
+451,28.588333,77.221667,"Lodhi Road, Delhi - IITM",Delhi,Delhi
+452,28.5918245,77.2273074,"Lodhi Road, Delhi - IMD",Delhi,Delhi
+453,28.611281,77.237738,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,Delhi
+454,28.636429,77.201067,"Mandir Marg, Delhi - DPCC",Delhi,Delhi
+455,28.684678,77.076574,"Mundka, Delhi - DPCC",Delhi,Delhi
+456,28.60909,77.0325413,"NSIT Dwarka, Delhi - CPCB",Delhi,Delhi
+457,28.570173,76.933762,"Najafgarh, Delhi - DPCC",Delhi,Delhi
+458,28.822836,77.101981,"Narela, Delhi - DPCC",Delhi,Delhi
+459,28.56789,77.250515,"Nehru Nagar, Delhi - DPCC",Delhi,Delhi
+460,28.57834,77.184,"New Moti Bagh, Delhi - MHUA",Delhi,Delhi
+461,28.6573814,77.1585447,"North Campus, DU, Delhi - IMD",Delhi,Delhi
+462,28.530785,77.271255,"Okhla Phase-2, Delhi - DPCC",Delhi,Delhi
+463,28.623763,77.287209,"Patparganj, Delhi - DPCC",Delhi,Delhi
+464,28.674045,77.131023,"Punjabi Bagh, Delhi - DPCC",Delhi,Delhi
+465,28.639652,77.146275,"Pusa, Delhi - DPCC",Delhi,Delhi
+466,28.63611,77.173332,"Pusa, Delhi - IMD",Delhi,Delhi
+467,28.563262,77.186937,"R K Puram, Delhi - DPCC",Delhi,Delhi
+468,28.732528,77.11992,"Rohini, Delhi - DPCC",Delhi,Delhi
+469,28.6514781,77.1473105,"Shadipur, Delhi - CPCB",Delhi,Delhi
+470,28.5504249,77.2159377,"Sirifort, Delhi - CPCB",Delhi,Delhi
+471,28.710508,77.249485,"Sonia Vihar, Delhi - DPCC",Delhi,Delhi
+472,28.531346,77.190156,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,Delhi
+473,28.672342,77.31526,"Vivek Vihar, Delhi - DPCC",Delhi,Delhi
+474,28.699793,77.165453,"Wazirpur, Delhi - DPCC",Delhi,Delhi
+475,23.811548,86.481238,"Kalakusuma, Dhanbad - DMC",Dhanbad,Jharkhand
+476,23.66988,86.411725,"Mohalbani Ghat, Pathardih - DMC",Pathardih,Jharkhand
+477,23.80569,86.44268,"Sardar Patel Nagar, Dhanbad - JSPCB",Dhanbad,Jharkhand
+478,23.707909,86.41467,"Tata Stadium, Jorapokhar - JSPCB",Jorapokhar,Jharkhand
+479,16.9872867,81.7363176,"Anand Kala Kshetram, Rajamahendravaram - APPCB",Rajamahendravaram,Andhra Pradesh
+480,17.72,83.3,"GVM Corporation, Visakhapatnam - APPCB",Visakhapatnam,Andhra Pradesh
+481,13.20488,79.097889,"Gangineni Cheruvu, Chittoor - APPCB",Chittoor,Andhra Pradesh
+482,14.675886,77.593027,"Gulzarpet, Anantapur - APPCB",Anantapur,Andhra Pradesh
+483,16.536107,80.594233,"HB Colony, Vijayawada - APPCB",Vijayawada,Andhra Pradesh
+484,16.486692,80.699436,"Kanuru, Vijayawada - APPCB",Vijayawada,Andhra Pradesh
+485,16.507014,80.627767,"PWD Grounds, Vijayawada - APPCB",Vijayawada,Andhra Pradesh
+486,16.509717,80.612222,"Rajiv Gandhi Park, Vijayawada - APPCB",Vijayawada,Andhra Pradesh
+487,16.5150833,80.5181667,"Secretariat, Amaravati - APPCB",Amaravati,Andhra Pradesh
+488,13.67,79.35,"Tirumala, Tirupati - APPCB",Tirupati,Andhra Pradesh
+489,13.615387,79.40923,"Vaikuntapuram, Tirupati - APPCB",Tirupati,Andhra Pradesh
+490,14.465052,78.824187,"Yerramukkapalli, Kadapa - APPCB",Kadapa,Andhra Pradesh
+491,28.6701,76.9254,"Arya Nagar, Bahadurgarh - HSPCB",Bahadurgarh,Haryana
+492,29.5364,75.0158,"F-Block, Sirsa - HSPCB",Sirsa,Haryana
+493,27.9002,76.9938,"General Hospital, Mandikhera - HSPCB",Mandikhera,Haryana
+494,30.1480566,77.2893471,"Gobind Pura, Yamuna Nagar - HSPCB",Yamuna Nagar,Haryana
+495,28.806223,76.141105,"H.B. Colony, Bhiwani - HSPCB",Bhiwani,Haryana
+496,29.503664,75.467934,"Huda Sector, Fatehabad - HSPCB",Fatehabad,Haryana
+497,28.52123,76.37138,"MD University, Rohtak - HSPCB",Rohtak,Haryana
+498,28.593883,76.270653,"Mini Secretariat, Charkhi Dadri - HSPCB",Charkhi Dadri,Haryana
+499,28.2068,76.7997,"Municipal Corporation Office, Dharuhera - HSPCB",Dharuhera,Haryana
+500,29.0272,77.0621,"Murthal, Sonipat - HSPCB",Sonipat,Haryana
+501,28.422681,77.148944,"NISE Gwal Pahari, Gurugram - IMD",Gurugram,Haryana
+502,28.3419248,77.319699,"Nathu Colony, Ballabgarh - HSPCB",Ballabgarh,Haryana
+503,28.39072,77.30059,"New Industrial Town, Faridabad - HSPCB",Faridabad,Haryana
+504,30.379589,76.778328,"Patti Mehar, Ambala - HSPCB",Ambala,Haryana
+505,29.307814,76.337619,"Police Lines, Jind - HSPCB",Jind,Haryana
+506,29.8006,76.4155,"Rishi Nagar, Kaithal - HSPCB",Kaithal,Haryana
+507,28.376058,77.315741,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana
+508,28.4417,77.3217,"Sector 30, Faridabad - HSPCB",Faridabad,Haryana
+509,28.4088421,77.3099081,"Sector- 16A, Faridabad - HSPCB",Faridabad,Haryana
+510,29.6953,77.0027,"Sector-12, Karnal - HSPCB",Karnal,Haryana
+511,29.497973,76.993331,"Sector-18, Panipat - HSPCB",Panipat,Haryana
+512,28.360699,76.93609,"Sector-2 IMT, Manesar - HSPCB",Manesar,Haryana
+513,28.4227,77.0667,"Sector-51, Gurugram - HSPCB",Gurugram,Haryana
+514,30.7057778,76.8531805555555,"Sector-6, Panchkula - HSPCB",Panchkula,Haryana
+515,29.966942,76.875879,"Sector-7, Kurukshetra - HSPCB",Kurukshetra,Haryana
+516,28.060249,76.113115,"Shastri Nagar, Narnaul - HSPCB",Narnaul,Haryana
+517,28.1485564,77.3320667,"Shyam Nagar, Palwal - HSPCB",Palwal,Haryana
+518,28.4275,77.1465,"Teri Gram, Gurugram - HSPCB",Gurugram,Haryana
+519,29.14056,75.744941,"Urban Estate-II, Hisar - HSPCB",Hisar,Haryana
+520,28.4501238,77.0263051,"Vikas Sadan, Gurugram - HSPCB",Gurugram,Haryana
+521,23.8175497,91.2726974,"Bardowali, Agartala - Tripura SPCB",Agartala,Tripura
+522,23.8628276,91.2887362,"Kunjaban, Agartala - Tripura SPCB",Agartala,Tripura
+523,23.685297,86.945968,"Asansol Court Area, Asansol - WBPCB",Asansol,West Bengal
+524,22.5367507,88.3638022,"Ballygunge, Kolkata - WBPCB",Kolkata,West Bengal
+525,22.629801,88.352017,"Belur Math, Howrah - WBPCB",Howrah,West Bengal
+526,22.58157048,88.41002457,"Bidhannagar, Kolkata - WBPCB",Kolkata,West Bengal
+527,22.55664,88.342674,"Fort William, Kolkata - WBPCB",Kolkata,West Bengal
+528,22.611968,88.347422,"Ghusuri, Howrah - WBPCB",Howrah,West Bengal
+529,22.49929,88.36917,"Jadavpur, Kolkata - WBPCB",Kolkata,West Bengal
+530,22.5687319,88.2797276,"Padmapukur, Howrah - WBPCB",Howrah,West Bengal
+531,22.06047,88.109737,"Priyambada Housing Estate, Haldia - WBPCB",Haldia,West Bengal
+532,22.627847,88.380669,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,West Bengal
+533,22.51106,88.35142,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,West Bengal
+534,22.7605581,88.3617589,"SVSPA Campus, Barrackpore - WBPCB",Barrackpore,West Bengal
+535,23.5404352,87.2892225,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",Durgapur,West Bengal
+536,22.5448082,88.3403691,"Victoria, Kolkata - WBPCB",Kolkata,West Bengal
+537,26.6879226,88.4152495,"Ward-32 Bapupara, Siliguri - WBPCB",Siliguri,West Bengal
